@@ -8,3 +8,4 @@
 `- Do not make any changes in the first 3 lines`
 
 https://user-images.githubusercontent.com/124993471/260382121-4f1305cb-62ad-4770-9af7-9781fa1f1cc4.mp4
+https://github.com/mrkarankumar/movies-recommendation-system/blob/main/karan.jpg.png
